@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python/C++
-- 📫 How to reach me: [lyh@lyh.moe](mailto:lyh@lyh.moe)
+- 🌱 I’m currently learning C++/Recommendar system
+- 📫 How to reach me: [lighteningzhang@sjtu.edu.cn]
 
 <!--
 **stevelee477/stevelee477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Steve's github stats](https://github-readme-stats.vercel.app/api?username=lighteningzhang&show_icons=true&theme=radical)
+![lighteningzhang's github stats](https://github-readme-stats.vercel.app/api?username=lighteningzhang&show_icons=true&theme=radical)
