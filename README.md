@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning C++/Recommendar system
-- 📫 How to reach me: [lighteningzhang@sjtu.edu.cn]
+- 📫 How to reach me: lighteningzhang@sjtu.edu.cn
 
 <!--
 **stevelee477/stevelee477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
